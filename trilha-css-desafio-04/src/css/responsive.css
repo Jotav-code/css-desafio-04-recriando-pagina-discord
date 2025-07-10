@@ -1,0 +1,44 @@
+@media (max-width: 991px) {
+
+    header p{
+        padding-inline: 24px;
+    }
+
+    h1 {
+        font-size: 2rem;
+        text-align: left;
+        padding-left: 24px;
+    }
+    .secao-2{
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+    h2{
+        font-size: 1.5rem;
+        text-align: left;
+        max-width: 370px !important;
+        height: auto;
+    }
+    p{
+        text-align: left;
+    }
+    .buttons{
+        flex-direction: column;
+        padding-inline: 24px;
+    }
+    header>.content>.buttons :nth-child(2){
+        margin-top: 20px;
+        padding: 18px !important;
+    }
+    header>.content>.buttons :nth-child(1){
+        padding: 18px !important;
+    }
+    .secao-4 p {
+        padding-inline: 24px;
+    }
+    .secao-4 img {
+        padding-inline: 24px;
+    }
+
+
+}
