@@ -5,7 +5,7 @@
 Este projeto foi desenvolvido como parte do **quarto desafio** da trilha de **CSS** da [DIO.me](https://dio.me).  
 O objetivo foi construir um **clone da interface da página do Discord**, aplicando conhecimentos de **HTML5 e CSS3**, com foco em **RESPONSIVIDADE** para criação de um layout fiel, moderno e também seja bonito no mobile.
 
-### 💡 O que foi trabalhado:
+### 💡 O que foi trabalhado: 
 
 - 🎨 Estilização de seções inspiradas no site oficial do Discord  
 - 🔤 Tipografia e cores com foco na identidade visual  
